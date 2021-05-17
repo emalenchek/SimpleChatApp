@@ -1,0 +1,20 @@
+{
+  "name": "chatApp",
+  "version": "1.0.0",
+  "description": "Simple Chat Application using Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emalenchek/SimpleChatApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emalenchek/SimpleChatApp/issues"
+  },
+  "homepage": "https://github.com/emalenchek/SimpleChatApp#readme"
+}
